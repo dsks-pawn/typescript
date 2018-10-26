@@ -1,2 +1,1 @@
-# typescript
-basic
+# self learning Typescript step by step
