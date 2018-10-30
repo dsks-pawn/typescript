@@ -25,3 +25,14 @@ var anyArray: any[] = ['TypeScript', 18, true];
 function showAlert(): void {
     alert("Welcome to Tyescript");
 }
+
+// Ép kiểu
+
+let kieu1: any
+kieu1 = 'day la 1 string'
+
+console.log((<string>kieu1).length);
+// or
+console.log((kieu1 as string).length)
+
+
