@@ -9,6 +9,8 @@ console.log('student1.name :', student1.name);
 
 // Class :  không phải là 1 đối tượng,có thể hiểu class là một mô tả trạng thái, hành động của đối tượng đó.
 // Ví dụ: Trong class Student ta tạo ra 1 phương thức là study
+
+//---------------------------------------------------------
 class Student {
     name: string;
     age: number;

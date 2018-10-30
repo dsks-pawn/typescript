@@ -33,6 +33,8 @@ class Con extends Cha {
 var con1 = new Con();
 con1.noi();
 
+//---------------------------------------------------------
+
 
 //Kế thừa lồng 
 class A {

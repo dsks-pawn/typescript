@@ -24,7 +24,7 @@ console.log(nhanVat1);
 console.log(nhanVat1.showName());
 
 
-
+//---------------------------------------------------------
 
 
 enum state {
